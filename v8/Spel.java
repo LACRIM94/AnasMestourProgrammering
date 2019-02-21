@@ -24,7 +24,7 @@ public class Spel {
 		    if (gissa == numretsomgissas) {
 		        vinst = true;
 		    }   
-		    else if (guess < numretsomgissas) {
+		    else if (gissa < numretsomgissas) {
 		    System.out.println("Din gissning är för lågt");
 		 
 		    }
