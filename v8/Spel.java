@@ -40,7 +40,7 @@ public class Spel {
 		    System.out.println("Du förlorade, max antalet försök är 5");
 		    System.out.println("Numret var " + numretsomgissas);
 		    break;
-	
+	        
 		    
 		}
 		
